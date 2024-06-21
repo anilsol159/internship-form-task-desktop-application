@@ -21,4 +21,4 @@ This repository contains all the files for the desktop form application
 7. Run the server by following the instruction form the readme of the server repository.
 8. Run the form project.
 
-![Alt text](Form1 screenshot.png)
+![Alt text](/Form1 screenshot.png)
