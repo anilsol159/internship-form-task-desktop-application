@@ -20,3 +20,5 @@ This repository contains all the files for the desktop form application
 6. Get the server from here:- https://github.com/anilsol159/Internship-form-task-backend
 7. Run the server by following the instruction form the readme of the server repository.
 8. Run the form project.
+
+![Alt text](Form1 screenshot.png)
