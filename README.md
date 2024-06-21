@@ -16,5 +16,5 @@ This repository contains all the files for the desktop form application
    Make sure you have Newtonsoft.Json package installed from NuGet Package Manager to make calls to the server.
 
 4. Get the server from here:- https://github.com/anilsol159/Internship-form-task-backend
-5. Run the server
+5. Run the server by following the instruction form the readme of the server repository.
 6. Run the form project.
