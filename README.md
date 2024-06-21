@@ -22,3 +22,5 @@ This repository contains all the files for the desktop form application
 8. Run the form project.
 
 ![Alt text](/Form1%20screenshot.png)
+![Alt text](/Form2%20screenshot.png)
+![Alt text](/Form3%20screenshot.png)
